@@ -1,6 +1,6 @@
 
 
-const About = () => {
+const Products = () => {
 
 
     return (
@@ -11,4 +11,4 @@ const About = () => {
 }
 
 
-export default About
+export default Products

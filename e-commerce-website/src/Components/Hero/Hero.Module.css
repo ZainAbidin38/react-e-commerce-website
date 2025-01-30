@@ -1,12 +1,15 @@
 
 
-.intro-bg {
-    height: 100vh;
-    width: 100%;
-    background-image: url('./assets/bg.png');
+.hero {
+    background-image: url(/src/assets/bg.png);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
   }
+
+
+
 
 .intro {
     margin-top: 200px;

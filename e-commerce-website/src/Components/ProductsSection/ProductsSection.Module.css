@@ -1,0 +1,9 @@
+
+
+.product-title {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    font-weight: 1000;
+    font-size: 40px;
+}

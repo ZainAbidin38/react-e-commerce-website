@@ -1,4 +1,5 @@
 import Hero from "../../Components/Hero/Hero"
+import ProductsSection from "../../Components/ProductsSection/ProductsSection"
 
 const Home = () => {
 
@@ -10,6 +11,7 @@ const Home = () => {
     return (
         <div className="homePage-bg">
         <Hero />
+        <ProductsSection />
         </div>
     )
 }
